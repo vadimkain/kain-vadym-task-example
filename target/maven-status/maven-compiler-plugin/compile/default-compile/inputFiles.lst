@@ -1,0 +1,14 @@
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\services\UserServiceImpl.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\dto\response\ResponseAdviceDto.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\exception\UpdateUserFieldsException.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\validation\MinAgeValidator.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\dto\response\ResponseUserDataDto.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\models\User.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\advice\UserControllerAdvice.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\dto\request\RequestUserDto.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\dto\response\ResponseUsersDataDto.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\dto\response\ResponseUserDeletedDto.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\services\UserService.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\TaskApplication.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\validation\MinAge.java
+C:\Users\kainv\OneDrive\Рабочий стол\task\src\main\java\com\exampletask1\task\restful\UserControllerV1.java

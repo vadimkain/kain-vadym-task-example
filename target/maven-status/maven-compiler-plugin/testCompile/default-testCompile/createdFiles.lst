@@ -1,0 +1,6 @@
+com\exampletask1\task\validation\MinAgeValidatorTest.class
+com\exampletask1\task\services\UserServiceImplTest.class
+com\exampletask1\task\services\UserServiceImplConfiguration.class
+com\exampletask1\task\TaskApplicationTests.class
+com\exampletask1\task\services\StopConfiguration.class
+com\exampletask1\task\restful\UserControllerV1Test.class
