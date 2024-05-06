@@ -5,5 +5,5 @@ import lombok.Data;
 
 @Data
 public class ResponseUserDataDto {
-    private User data;
+    private User user;
 }

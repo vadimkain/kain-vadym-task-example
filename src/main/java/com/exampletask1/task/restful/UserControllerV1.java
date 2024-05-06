@@ -49,7 +49,7 @@ public class UserControllerV1 {
             );
         }
 
-        responseUsersDataDto.setData(userModels);
+        responseUsersDataDto.setUsers(userModels);
 
         return ResponseEntity
                 .ok()
@@ -63,7 +63,7 @@ public class UserControllerV1 {
         if (userOptional.isPresent()) {
             User user = userOptional.get();
             ResponseUserDataDto responseUserDataDto = new ResponseUserDataDto();
-            responseUserDataDto.setData(user);
+            responseUserDataDto.setUser(user);
 
             return ResponseEntity
                     .ok()
@@ -86,7 +86,7 @@ public class UserControllerV1 {
             User user = userOptional.get();
 
             ResponseUserDataDto responseUserDataDto = new ResponseUserDataDto();
-            responseUserDataDto.setData(user);
+            responseUserDataDto.setUser(user);
 
             return ResponseEntity
                     .created(URI.create("/api/v1/users/" + user.getId()))
@@ -113,7 +113,7 @@ public class UserControllerV1 {
             User user = userOptional.get();
 
             ResponseUserDataDto responseUserDataDto = new ResponseUserDataDto();
-            responseUserDataDto.setData(user);
+            responseUserDataDto.setUser(user);
 
             return ResponseEntity.ok()
                     .body(
@@ -142,7 +142,7 @@ public class UserControllerV1 {
         if (userOptional.isPresent()) {
             User user = userOptional.get();
             ResponseUserDataDto responseUserDataDto = new ResponseUserDataDto();
-            responseUserDataDto.setData(user);
+            responseUserDataDto.setUser(user);
 
             return ResponseEntity.ok()
                     .body(
@@ -196,7 +196,7 @@ public class UserControllerV1 {
                 );
             }
 
-            responseUsersDataDto.setData(userModels);
+            responseUsersDataDto.setUsers(userModels);
 
             return ResponseEntity
                     .ok()

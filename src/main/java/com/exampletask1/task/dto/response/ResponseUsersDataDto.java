@@ -8,5 +8,5 @@ import java.util.List;
 
 @Data
 public class ResponseUsersDataDto {
-    private List<EntityModel<User>> data;
+    private List<EntityModel<User>> users;
 }
