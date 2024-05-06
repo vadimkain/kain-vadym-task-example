@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  junior-kain-vadym-task-example:
+    build: .
+    ports:
+      - "8080:8080"
